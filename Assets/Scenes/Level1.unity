@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.10427656, g: 0.09059773, b: 0.07519738, a: 1}
+  m_IndirectSpecularColor: {r: 0.13799441, g: 0.11547055, b: 0.09205871, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1245,7 +1245,7 @@ Light:
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 1
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
@@ -1296,14 +1296,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
-  m_LocalRotation: {x: -0.100257486, y: 0.22381265, z: 0.0050515723, w: 0.96944875}
+  m_LocalRotation: {x: -0.08693621, y: 0.009500755, z: 0.02648405, w: 0.99581647}
   m_LocalPosition: {x: 4.87, y: 6.72, z: -16.98}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: -11.341, y: 26.203, z: -2.051}
+  m_LocalEulerAnglesHint: {x: -10, y: 0.833, z: 2.974}
 --- !u!1 &753024379
 GameObject:
   m_ObjectHideFlags: 0
@@ -1554,7 +1554,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 36.1
+  far clip plane: 100
   field of view: 60
   orthographic: 1
   orthographic size: 8.5
@@ -1581,7 +1581,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.00000011175871, y: 0.0000001937151, z: -0.000000022351742, w: 1}
-  m_LocalPosition: {x: -1.04, y: 6.02, z: -21.46}
+  m_LocalPosition: {x: -4, y: 6, z: 6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
